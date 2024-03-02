@@ -1,16 +1,13 @@
-### Hi there 👋
+# Restaurante
 
-<!--
-**GioRamos20/gioramos20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Comenzando 🚀
 
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
+### Pre-requisitos 📋
+
+_Que cosas necesitas para instalar el software y como instalarlas_
